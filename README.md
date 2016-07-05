@@ -12,3 +12,10 @@ java基础:
 
 
 java集合类:
+
+
+
+
+设计模式：
+
+1) [观察者模式](https://github.com/BazingaLyn/shine-study/blob/master/src/main/java/com/bazinga/shine/partten/observer/observer.md)
